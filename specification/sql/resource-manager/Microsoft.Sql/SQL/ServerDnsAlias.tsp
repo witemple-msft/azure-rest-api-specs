@@ -63,6 +63,7 @@ interface ServerDnsAliases {
   /**
    * Acquires server DNS alias from another server.
    */
+  #suppress "@azure-tools/typespec-azure-resource-manager/arm-resource-action-no-segment" "Demo: new inline suppression for management review"
   acquire is ArmResourceActionAsync<
     ServerDnsAlias,
     ServerDnsAliasAcquisition,
