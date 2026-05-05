@@ -106,6 +106,7 @@ import "./ServerConfigurationOption.tsp";
 import "./ServerConnectionPolicy.tsp";
 import "./ServerDevOpsAuditingSettings.tsp";
 import "./ServerDnsAlias.tsp";
+import "./ServerDnsAliasOperations.tsp";
 import "./ServerKey.tsp";
 import "./Server.tsp";
 import "./ServerSecurityAlertPolicy.tsp";
